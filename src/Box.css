@@ -1,0 +1,16 @@
+.Box {
+    position: relative;
+    border: 1px solid black;
+    margin: 10px;
+    display: inline-block;
+}
+
+.remove {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    padding: 7px 14px 22px 6px;
+    background-color: red;
+    top: -15px;
+    right: -10px;
+}
